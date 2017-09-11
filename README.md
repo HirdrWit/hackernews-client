@@ -1,4 +1,4 @@
-# react-redux-hackernews
+# The Road to Learn React
 
 The application you will build when you read the book to [learn React](https://www.robinwieruch.de/the-road-to-learn-react/).
 
@@ -17,7 +17,7 @@ The application you will build when you read the book to [learn React](https://w
 * `npm start`
 * visit http://localhost:3000/
 
-# The Road to Learn React
+## Releases
 
 * [Chapter 1 Outcome](https://github.com/rwieruch/hackernews-client/tree/5f87a8c8c2654c2a0bb89228a01278af123ed1fa)
 * [Chapter 2 Outcome](https://github.com/rwieruch/hackernews-client/tree/e2762eab762da612265756e466ebcb1974063ac8)
